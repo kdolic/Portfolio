@@ -73,6 +73,24 @@ p {
     background-color: crimson;
 }
 
+.logo h1 {
+    font-size: 3rem;
+    text-transform: uppercase;
+    color: white;
+}
+
+.logo h1 span {
+    color: crimson;
+}
+
+/* Header Navbar Section */
+
+
+
+/* End of Header Navbar Section */
+
+
+
 /* Banner Section */
 #banner {
     background-image: url(/img/code1.jpg);
